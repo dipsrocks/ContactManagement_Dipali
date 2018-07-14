@@ -1,0 +1,2 @@
+C:\Users\Pritesh\Source\Repos\ContactManagement\ContactManagementAPI\ContactManagementAPI\obj\Debug\ContactManagementAPI.csprojResolveAssemblyReference.cache
+C:\Users\Pritesh\Source\Repos\ContactManagement\ContactManagementAPI\ContactManagementAPI\obj\Debug\ContactManagementAPI.csproj.CoreCompileInputs.cache

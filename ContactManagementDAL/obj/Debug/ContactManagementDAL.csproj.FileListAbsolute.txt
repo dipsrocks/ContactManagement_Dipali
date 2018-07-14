@@ -1,0 +1,8 @@
+C:\Users\Pritesh\Source\Repos\ContactManagement\ContactManagementAPI\ContactManagementDAL\bin\Debug\ContactManagementDAL.dll
+C:\Users\Pritesh\Source\Repos\ContactManagement\ContactManagementAPI\ContactManagementDAL\bin\Debug\ContactManagementDAL.pdb
+C:\Users\Pritesh\Source\Repos\ContactManagement\ContactManagementAPI\ContactManagementDAL\bin\Debug\ContactManagementEntities.dll
+C:\Users\Pritesh\Source\Repos\ContactManagement\ContactManagementAPI\ContactManagementDAL\bin\Debug\ContactManagementEntities.pdb
+C:\Users\Pritesh\Source\Repos\ContactManagement\ContactManagementAPI\ContactManagementDAL\obj\Debug\ContactManagementDAL.csprojResolveAssemblyReference.cache
+C:\Users\Pritesh\Source\Repos\ContactManagement\ContactManagementAPI\ContactManagementDAL\obj\Debug\ContactManagementDAL.csproj.CoreCompileInputs.cache
+C:\Users\Pritesh\Source\Repos\ContactManagement\ContactManagementAPI\ContactManagementDAL\obj\Debug\ContactManagementDAL.dll
+C:\Users\Pritesh\Source\Repos\ContactManagement\ContactManagementAPI\ContactManagementDAL\obj\Debug\ContactManagementDAL.pdb
